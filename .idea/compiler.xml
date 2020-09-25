@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hunt-common" />
+        <module name="hunt-dao" />
+        <module name="hunt-model" />
+        <module name="hunt-service" />
+        <module name="hunt-web" />
+        <module name="irs_maven" />
+        <module name="ssm-shiro" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="Demo" target="1.7" />
+      <module name="hunt-admin" target="1.5" />
+      <module name="hunt-common" target="1.8" />
+      <module name="hunt-dao" target="1.8" />
+      <module name="hunt-model" target="1.8" />
+      <module name="hunt-parent" target="1.5" />
+      <module name="hunt-service" target="1.8" />
+      <module name="hunt-web" target="1.8" />
+      <module name="irs_maven" target="1.7" />
+      <module name="ssm-shiro" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

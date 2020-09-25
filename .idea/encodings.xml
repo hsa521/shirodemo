@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../../hunt-admin-master/hunt-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../hunt-admin-master/hunt-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../hunt-admin-master/hunt-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../hunt-admin-master/hunt-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../hunt-admin-master/hunt-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../hunt-admin-master/hunt-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://E:/ideaa/Y2DemoProject/Demo" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

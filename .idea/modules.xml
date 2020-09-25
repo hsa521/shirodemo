@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/ideaa/Y2DemoProject/Demo/Demo.iml" filepath="E:/ideaa/Y2DemoProject/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../hunt-admin-master/hunt-admin.iml" filepath="$PROJECT_DIR$/../../hunt-admin-master/hunt-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../hunt-admin-master/hunt-common/hunt-common.iml" filepath="$PROJECT_DIR$/../../hunt-admin-master/hunt-common/hunt-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../hunt-admin-master/hunt-dao/hunt-dao.iml" filepath="$PROJECT_DIR$/../../hunt-admin-master/hunt-dao/hunt-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../hunt-admin-master/hunt-model/hunt-model.iml" filepath="$PROJECT_DIR$/../../hunt-admin-master/hunt-model/hunt-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../hunt-admin-master/hunt-parent/hunt-parent.iml" filepath="$PROJECT_DIR$/../../hunt-admin-master/hunt-parent/hunt-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../hunt-admin-master/hunt-service/hunt-service.iml" filepath="$PROJECT_DIR$/../../hunt-admin-master/hunt-service/hunt-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../hunt-admin-master/hunt-web/hunt-web.iml" filepath="$PROJECT_DIR$/../../hunt-admin-master/hunt-web/hunt-web.iml" />
+      <module fileurl="file://E:/桌面上的学习资料不占用磁盘内存/irs-maven/irs_maven.iml" filepath="E:/桌面上的学习资料不占用磁盘内存/irs-maven/irs_maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-shiro.iml" filepath="$PROJECT_DIR$/ssm-shiro.iml" />
+    </modules>
+  </component>
+</project>

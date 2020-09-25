@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="irs_maven:war">
+    <output-path>E:/桌面上的学习资料不占用磁盘内存/irs-maven/target</output-path>
+    <root id="archive" name="ssm.war">
+      <element id="artifact" artifact-name="irs_maven:war exploded" />
+    </root>
+  </artifact>
+</component>
